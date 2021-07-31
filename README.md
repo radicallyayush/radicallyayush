@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Passionate about Technology and Finance.</h3>
+<h3 align="center">I'm Passionate about Technology and Finance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radicallyayush&label=Profile%20views&color=0e75b6&style=flat" alt="radicallyayush" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radicallyayush" alt="radicallyayush" /></a> </p>
 
-- 📫 How to reach me **ayu.rp01@gmail.com**
+- 📫 Reach me at **ayu.rp01@gmail.com**
 
-- ⚡ Fun fact **I'd Love to develop an app or service like uber/airbnb**
+- ⚡ Fun fact **I'd Love to develop an app or service like uber/airbnb to disrupt local inefficent solutions to global problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

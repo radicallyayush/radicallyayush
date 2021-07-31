@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Passionate about Tech and a Billion dollars.</h3>
+<h3 align="center">Passionate about Technology and Finance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radicallyayush&label=Profile%20views&color=0e75b6&style=flat" alt="radicallyayush" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ayu.rp01@gmail.com**
 
-- ⚡ Fun fact **I'd Love to be a billionaire. ASAP**
+- ⚡ Fun fact **I'd Love to develop an app or service like uber/airbnb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

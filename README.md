@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **ayu.rp01@gmail.com**
 
-- ⚡ Fun fact **I'd Love to develop an app or service like uber/airbnb to disrupt local inefficent solutions to global problems.**
+- ⚡ Fun fact **I'd Love Disrupt the world and everything in it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

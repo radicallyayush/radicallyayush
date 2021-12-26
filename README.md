@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **ayu.rp01@gmail.com**
 
-- ⚡ Fun fact **I'd Love to Disrupt the world and everything in it.**
+- ⚡ Fun fact **I like solving hard problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

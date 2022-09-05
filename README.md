@@ -4,9 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radicallyayush" alt="radicallyayush" /></a> </p>
 
-- 📫 Reach me at **ayu.rp01@gmail.com**
-
-- ⚡ Fun fact **I like solving hard problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
